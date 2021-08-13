@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fairies-Feast
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML on learn-html.org and Jetbrains Pycharm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
