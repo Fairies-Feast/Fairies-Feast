@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fairies-Feast
-- 👀 I’m interested in Java, Python, Html, Css, and Javascript
-- 🌱 I'm learning some of these languages on many different sites.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Free AI
+- 🌱 I'm learning how to use Markov Chains.
+- 💞️ I’m not looking to collaborate right now
+- 📫 You can reach me at amsilla.com
