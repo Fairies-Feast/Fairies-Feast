@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fairies-Feast
-- 👀 I’m interested in Free AI
-- 🌱 I'm learning how to use Markov Chains.
-- 💞️ I’m not looking to collaborate right now
+- 👀 I’m interested in AI
+- 🌱 I'm learning how to get custom domains
+- 💞️ I’m looking to collaborate right now
 - 📫 You can reach me at amsilla.com
