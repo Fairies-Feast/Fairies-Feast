@@ -8,5 +8,5 @@ If you want to see projects I'm working on, here they are:
 * Fairies-Feast/Fairies-Feast.github.io
 * amsilla/plate
 * amsilla/amsilla.github.io
-If you like my work, please consider donating:
-https://www.buymeacoffee.com/fairies0feast
+---
+If you like my work, please consider donating: https://www.buymeacoffee.com/fairies0feast
