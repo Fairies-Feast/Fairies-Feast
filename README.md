@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Fairies-Feast
-- 👀 I’m interested in AI
-- 🌱 I'm learning WebAssembly
-- 💞️ I’m looking to collaborate
-- 📫 You can reach me at amsilla.com
+![My Stats](https://github-readme-stats.vercel.app/api?username=Fairies-Feast)
 ---
 If you want to see projects I'm working on, here they are:
 * Fairies-Feast/Fairies-Feast.github.io
