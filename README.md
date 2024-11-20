@@ -3,9 +3,7 @@ I'm Fairies-Feast. I build web and desktop applications for the goal of higher p
 If you like my work, please consider buying me a coffee: https://www.buymeacoffee.com/fairies0feast.
 
 ### What do I do?
-Amsilla Code (Hosting platform): code.amsilla.com
-Amsilla: amsilla.com
-Github Username: Fairies-Feast
+You can see most of my apps on Amsilla.com
 | Language      | Level|
 | ----------- | ----------- |
 | Beginner | Java, Kotlin |
